@@ -6,6 +6,6 @@ A simple GUI Application for DBMS Project developed in Python using Kivy framewo
 - Download the source file and you are ready to go!
 
 ### UI Snippets
-![Login](/UI Snippets/Login.png)
-![Menu](/UI Snippets/Menu.png)
-![Display](/UI Snippets/Display.png)
+![Login](https://github.com/balajiRchandran/Student-Record-Management/blob/master/UI%20Snippets/Login.png)
+![Menu](https://github.com/balajiRchandran/Student-Record-Management/blob/master/UI%20Snippets/Menu.png)
+![Display](https://github.com/balajiRchandran/Student-Record-Management/blob/master/UI%20Snippets/Display.png)
